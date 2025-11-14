@@ -1,0 +1,133 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "3.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        ":/automap-tiles.tsx": {
+            "dynamicWrapping": false
+        },
+        "Coin.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MonedaD.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75
+        },
+        "Objects-Photoroom.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Objects-Photoroom2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "coins.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1014,
+                "y": 481
+            }
+        },
+        "map2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1170,
+                "y": 308
+            }
+        },
+        "portal.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "ridges.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tileset/tree.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tree1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tree2.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tree3.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/alexz/PycharmProjects/PythonProject/project/platformer/sprites",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 60,
+    "openFiles": [
+        "Tileset.tsx",
+        "map1.tmx",
+        "ridges.tsx",
+        "3.tsx",
+        "tree1.tsx",
+        "tree2.tsx",
+        "portal.tsx",
+        "map2.tmx"
+    ],
+    "project": "platformer.tiled-project",
+    "recentFiles": [
+        "Tileset.tsx",
+        "map1.tmx",
+        "ridges.tsx",
+        "3.tsx",
+        "tree1.tsx",
+        "tree2.tsx",
+        "portal.tsx",
+        "map2.tmx",
+        "coins.tsx",
+        "Coin.tsx",
+        "tree3.tsx",
+        "Objects-Photoroom.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 192,
+        "width": 512
+    },
+    "tileset.type": 0
+}

@@ -1,0 +1,10 @@
+{
+  "enemies": [
+    {
+      "name": "Crab",
+      "start_pos": [16, 12],
+      "final_pos": [23, 12]
+    }
+
+  ]
+}
