@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map2.tmx",
+    "activeFile": "map1.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -51,8 +51,8 @@
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1014,
-                "y": 481
+                "x": 1006,
+                "y": 524
             }
         },
         "map2.tmx": {
@@ -110,13 +110,13 @@
     "project": "platformer.tiled-project",
     "recentFiles": [
         "Tileset.tsx",
-        "map1.tmx",
-        "ridges.tsx",
-        "3.tsx",
-        "tree1.tsx",
-        "tree2.tsx",
-        "portal.tsx",
         "map2.tmx",
+        "portal.tsx",
+        "tree2.tsx",
+        "tree1.tsx",
+        "3.tsx",
+        "ridges.tsx",
+        "map1.tmx",
         "coins.tsx",
         "Coin.tsx",
         "tree3.tsx",
