@@ -59,8 +59,8 @@
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1170,
-                "y": 308
+                "x": 960,
+                "y": 481
             }
         },
         "portal.tsx": {
